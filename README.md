@@ -8,7 +8,7 @@ This is a code that can be loaded onto an ESP82666 arduino board and allows user
 
 Before:
 1. Download the CH340 driver from https://sparks.gogo.co.nz/ch340.html
-2. Go into File>Preferences and under "Additional Boards Manager URLs" past in "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
+2. Go into File>Preferences and under "Additional Boards Manager URLs" paste in "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
 3. Go into arduino and navigate to the board manager (Tools>Board>Board Manager), search esp8266 and install the one by "ESP8266 Community"
 4. Go into Sketch>Libraries>Manage Libraries, search neopixels and install the one called "adafruit neopixels by adafruit"
 5. Connect your arduino to your laptop and make sure that the micro USB wire you are using is a transfer wire instead of a charge wire. You can figure out which one yours is if you connect a microUSB android device and if it allows you to transfer files its the right wire
