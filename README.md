@@ -18,3 +18,9 @@ For setup:
 
 ####EXTRAS#####
 I will be keeping this updated as I make patterns this is the base and more will be added if changes are made just do steps 1-8 again with the new code. 
+
+
+What I used to build the project:
+- LEDS: https://www.amazon.ca/gp/product/B01LSF4QDM/ref=ppx_yo_dt_b_asin_title_o00?ie=UTF8&psc=1
+- ARDUINO BOARD: https://www.amazon.ca/gp/product/B076F53B6S/ref=ppx_yo_dt_b_asin_title_o01?ie=UTF8&psc=1 (3 pack)
+- JUMPER WIRES: https://www.amazon.ca/IZOKEE-240pcs-Solderless-Breadboard-Arduino/dp/B08151TQHG/ref=sr_1_3?dchild=1&keywords=jumper+wires&qid=1598310417&s=electronics&sr=1-3 (variety pack)
